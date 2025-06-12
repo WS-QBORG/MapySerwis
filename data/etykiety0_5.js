@@ -1,1 +1,0 @@
-var json_etykiety0_5 = {"type":"FeatureCollection","name":"etykiety0_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[14.532493730668353,53.440216780244562]}},{"type":"Feature","properties":{"fid":"2"},"geometry":null}]}
